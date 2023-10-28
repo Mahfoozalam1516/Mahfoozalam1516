@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mahfooz Alam</h1>
 <h3 align="center">A passionate Full Stack Web and AI/ML developer from India</h3>
 
